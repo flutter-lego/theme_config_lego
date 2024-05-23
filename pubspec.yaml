@@ -1,7 +1,7 @@
 name: theme_config_lego
-description: "lego is all you need"
+description: "Theme Config Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/theme_config_lego
 
 version: 1.0.0+1
 
